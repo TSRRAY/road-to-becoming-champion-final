@@ -1,0 +1,64 @@
+{
+    "name": "Road To Becoming Champion - 2 - Copy",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "color-coded-tilemap": "*",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "browser-events": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.2.0",
+        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.61",
+        "tag": "v2.0.61",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/46e1f878ac2b238b3b86f17ea661d738b1395aaa",
+        "target": "2.0.61",
+        "pxt": "11.3.65",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#fff7e4",
+        "#FFA7CA",
+        "#FC0023",
+        "#FF8002",
+        "#FFDD0D",
+        "#009104",
+        "#000EC5",
+        "#600092",
+        "#93E3FD",
+        "#96D35F",
+        "#474747",
+        "#EE719E",
+        "#FFC19B",
+        "#FFB788",
+        "#000000"
+    ]
+}
