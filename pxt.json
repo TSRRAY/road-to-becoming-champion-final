@@ -1,5 +1,6 @@
 {
     "name": "Road To Becoming Champion - 2 - Copy",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
